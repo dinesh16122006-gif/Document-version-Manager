@@ -2,7 +2,8 @@
 
 A modern, responsive web application for **Software Configuration Management (SCM)**, built to allow users to upload documents, maintain multi-version baselines, compare versions with visual line-by-line diffs, restore previous baselines non-destructively, download document representations, and inspect repository audit logs.
 
-**GitHub Repository:** [https://github.com/dinesh16122006-gif/Document-version-Manager.git](https://github.com/dinesh16122006-gif/Document-version-Manager.git)
+**GitHub Repository:** [https://github.com/dinesh16122006-gif/Document-version-Manager.git](https://github.com/dinesh16122006-gif/Document-version-Manager.git)  
+**Live Netlify Website:** [https://6aa58429940d5033332622fe--dinesh-doc-version-manager.netlify.app](https://6aa58429940d5033332622fe--dinesh-doc-version-manager.netlify.app)
 
 ---
 
